@@ -2,7 +2,7 @@ package exerciciosLoop;
 
 import java.util.Scanner;
 
-public class dowhileloop {
+public class Dowhileloop {
 
 	public static void main(String[] args) {
 		
