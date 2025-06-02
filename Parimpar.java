@@ -2,7 +2,7 @@ package exerciciosLoop;
 
 import java.util.Scanner;
 
-public class parimpar {
+public class Parimpar {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
